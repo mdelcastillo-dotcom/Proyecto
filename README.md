@@ -2,4 +2,4 @@
 
 Estudiante: Mónica del Castillo García
 Cc: 1017220985
-Prog:
+Programa: Ingeniería Industrial
